@@ -3,8 +3,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ExplosiveElements.ExplosiveElementsg&left_color=green&right_color=red)
 
-- 🌱 I’m currently learning pyqt5、pytorch and visual navigation
-<!--
+- 🌱 I’m currently learning pyqt5、pytorch 、visual navigation and python automation
+ <!--
 **ExplosiveElements/ExplosiveElements** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
